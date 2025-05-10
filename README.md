@@ -10,12 +10,12 @@ A classic implementation of the board game Othello (also known as Reversi) featu
 - Play vs either of the AI's, or have the AI's play against one another.
 - Weak Ai uses a simple evaluation function, Strong AI also utilizes a minimax function.
 
----
-
 ### Download & Play
 
 1. Download build.zip
 2. unzip and run Othello.exe
+
+Alternatively, Orthello(1).py is a pygame implementation that employs the evaluation function Agent.
 
 ## Script Rundown
 The scripts folder holds the driving code for the project, the rest is Unity related data.
